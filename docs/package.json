@@ -1,0 +1,19 @@
+{
+  "name": "truc",
+  "version": "0.0.1",
+  "description": "truuc",
+  "main": "index.js",
+  "authors": {
+    "name": "truc",
+    "email": "no"
+  },
+  "repository": "truc/truc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+}
